@@ -1,0 +1,32 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+$blue: #0077B6;
+.btn-blue {
+  background-color: $blue;
+  color: white;
+  font-weight: bold;
+}
+
+.container {
+  display: inline;
+
+}
+
+.search-bar {
+  width: 300px;
+  height: 20px;
+  border-radius: 5px;
+  margin-right: 0em;
+}
+
+.submit {
+  height: 30px;
+  border-radius: 5px;
+  margin-left: 0;
+
+}
+h4 {
+  font-weight: lighter;
+}
